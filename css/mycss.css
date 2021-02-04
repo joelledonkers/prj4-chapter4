@@ -5,16 +5,16 @@ body {
 }
 .introduction {
 	background-color: #C8B0E1;
-	width: 927px;
+	width: 1200px;
 	height: 50px;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	font-style: normal;
 	font-weight: 400;
 	font-size: 23pt;
-	background-repeat: repeat;
+	background-repeat: repeat-x;
 	text-align: center;
-	background-image: url(../images/14904.png);
-	color: #009B3A;
+	background-image: url(../images/airplanes.jpg);
+	color: #117B3C;
 	
 }
 .my-container {
