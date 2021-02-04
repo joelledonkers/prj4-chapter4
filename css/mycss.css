@@ -47,3 +47,10 @@ body {
 	width: auto;
 	background-image: url(../images/DSC_0274.JPG);
 }
+#my-id {
+	color: #122C56;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+body h4 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
