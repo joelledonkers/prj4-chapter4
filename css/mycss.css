@@ -1,31 +1,32 @@
 @charset "utf-8";
 
-* { margin: 0}
+
 body {
+	margin: 0;
+	padding-left: 0;
+	padding-right: 0;
 	background-image: url(../images/backgroundwebsite.jpg);
 	background-size: cover;
 }
 .introduction {
+	margin: 0;
+	padding-left: 0;
+	padding-right: 0;
 	background-color: #C8B0E1;
-	width: 1200px;
-	height: 50px;
-	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 	font-style: normal;
 	font-weight: 400;
-	font-size: 23pt;
+	font-size: 22pt;
+	font-family: 'Akaya Telivigala', cursive;
 	background-repeat: repeat-x;
 	text-align: center;
-	background-image: url(../images/airplanes.jpg);
-	color: #117B3C;
+	background-image: url("../images/airplanes.jpg");
+	color: #621197;
 	
 }
 .my-container {
-	background-color: #9EAAAB;
-	background-image: url(../images/Foto%2030-07-2019%2018%2041%2015.jpg);
+	padding-left: 20px;
 	color: #FFFFFF;
-	border: 8pt solid #1F042A;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-right: 20px;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body img {
@@ -40,18 +41,16 @@ body h4 {
 
 
 body {
-	width: auto;
-	padding-left: 20px;
-	padding-right: 20px;
-}
+	width: auto;}
+	
 .my-container {
-	background-color: #1C1919;
 	width: auto;
-	background-image: url(../images/DSC_0274.JPG);
 }
 #my-id {
 	color: #122C56;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 body h4 {
 	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
